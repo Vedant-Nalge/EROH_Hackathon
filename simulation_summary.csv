@@ -1,0 +1,21 @@
+Scenario,Cluster,Cluster_ID,Installed_MW,Storage_MWh,Baseline_Reliability_%,Optimized_Reliability_%,Reliability_Improvement_%,Baseline_Loss_%,Optimized_Loss_%,Loss_Reduction_%,Baseline_EBITDA_Margin_%,Optimized_EBITDA_Margin_%,Daily_Revenue_INR_Lakh,Daily_EBITDA_INR_Lakh
+Base Normal,Delhi NCR,DEL,320.0,160.0,72.22,97.39,25.17,10.69,8.0,2.69,45.07,56.21,579.93,325.99
+Base Normal,Mumbai MMR,BOM,280.0,140.0,72.15,97.99,25.84,10.69,8.0,2.69,45.49,55.59,503.05,279.62
+Base Normal,Bengaluru,BLR,240.0,120.0,72.2,98.29,26.1,10.69,8.0,2.69,45.68,55.35,426.7,236.16
+Base Normal,Hyderabad,HYD,200.0,100.0,72.24,98.22,25.98,10.6,8.0,2.6,45.47,55.52,357.18,198.3
+Base Normal,Chennai,MAA,160.0,80.0,72.24,98.29,26.06,10.6,8.0,2.6,45.3,54.48,284.38,154.93
+Peak Summer Heatwave,Delhi NCR,DEL,320.0,160.0,69.24,97.4,28.16,10.65,8.0,2.65,45.05,55.8,665.6,371.4
+Peak Summer Heatwave,Mumbai MMR,BOM,280.0,140.0,71.51,98.0,26.48,10.68,8.0,2.68,45.82,55.63,516.6,287.39
+Peak Summer Heatwave,Bengaluru,BLR,240.0,120.0,71.58,98.29,26.71,10.68,8.0,2.68,45.99,55.41,437.97,242.69
+Peak Summer Heatwave,Hyderabad,HYD,200.0,100.0,69.76,98.22,28.46,10.57,8.0,2.57,45.52,55.27,397.56,219.75
+Peak Summer Heatwave,Chennai,MAA,160.0,80.0,70.11,98.3,28.19,10.57,8.0,2.57,45.38,54.27,311.33,168.96
+Monsoon Solar Slump,Delhi NCR,DEL,320.0,160.0,72.32,97.39,25.07,10.6,8.0,2.6,47.29,56.97,577.46,329.0
+Monsoon Solar Slump,Mumbai MMR,BOM,280.0,140.0,72.24,97.99,25.75,10.7,8.0,2.7,47.43,56.3,501.22,282.21
+Monsoon Solar Slump,Bengaluru,BLR,240.0,120.0,72.3,98.29,25.99,10.6,8.0,2.6,47.91,56.14,424.88,238.53
+Monsoon Solar Slump,Hyderabad,HYD,200.0,100.0,72.34,98.22,25.88,10.6,8.0,2.6,47.42,56.22,355.66,199.95
+Monsoon Solar Slump,Chennai,MAA,160.0,80.0,72.34,98.29,25.95,10.6,8.0,2.6,47.57,55.42,283.17,156.93
+Wholesale Price Spike,Delhi NCR,DEL,320.0,160.0,69.24,96.39,27.15,10.65,8.0,2.65,39.01,49.7,672.19,334.08
+Wholesale Price Spike,Mumbai MMR,BOM,280.0,140.0,71.51,96.8,25.29,10.68,8.0,2.68,39.88,50.19,521.95,261.97
+Wholesale Price Spike,Bengaluru,BLR,240.0,120.0,71.58,97.62,26.04,10.68,8.0,2.68,39.86,48.9,440.69,215.5
+Wholesale Price Spike,Hyderabad,HYD,200.0,100.0,69.76,97.64,27.88,10.57,8.0,2.57,39.4,48.38,399.82,193.44
+Wholesale Price Spike,Chennai,MAA,160.0,80.0,70.11,97.69,27.58,10.57,8.0,2.57,39.34,48.16,313.12,150.8

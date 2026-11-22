@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX build artifacts
+latex/*.aux
+latex/*.log
+latex/*.out
+latex/*.toc
+latex/fix_*.py
+latex/expand_*.py
+latex/build_*.py
+latex/clean_*.py
+latex/generate_*.py
+latex/cover_page_preview.png
+latex/page_*_preview.png
+latex/simulation_results_dashboard.png
+
+# Web scratch files
+web/build_site.py
+
+# Scratch
+*.egg-info/
+.env
